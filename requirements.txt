@@ -1,0 +1,8 @@
+ScraperFC
+pandas
+numpy
+matplotlib
+seaborn
+mplsoccer
+scikit-learn
+xgboost
